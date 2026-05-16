@@ -29,7 +29,7 @@
 
 ---
 
-## 🩸 About the Warrior
+## 🩸 About me
 
 ```bash
 $ whoami
