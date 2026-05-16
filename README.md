@@ -29,7 +29,7 @@
 
 ---
 
-## 🩸 About me
+##  About me
 
 ```bash
 $ whoami
