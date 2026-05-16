@@ -214,6 +214,6 @@ Aug 2025   ──►  DevOps / Red Hat Instructor @ NTI (part-time)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:B71C1C,100:8B0000&height=100&section=footer"/>
 
-</div>
+</div>  
 
 <!-- profile-readme · last touched 2026-05-16 05:50 UTC -->
